@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mike_niran" target="blank"><img src="https://img.shields.io/twitter/follow/mike_niran?logo=twitter&style=for-the-badge" alt="mike_niran" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-resume-niranmike.vercel.app/](https://my-resume-niranmike.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://olaniranmicheal.vercel.app/](https://olaniranmicheal.vercel.app/)
 
 - 💬 Ask me about **react js**
 
